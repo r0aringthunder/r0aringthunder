@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Software Engineer
+
+Hey there!
+
+- [Github](https://github.com/r0aringthunder)
+- [Linkedin](https://www.linkedin.com/in/will-mercer-2aa55015b/)
+
+
+[![R0aringthunder Github Stats](https://github-readme-stats.vercel.app/api?username=r0aringthunder)](https://github.com/r0aringthunder)
