@@ -1,3 +1,4 @@
+# Software Engineer
 ### Hi there 👋
 
 <!--
@@ -14,11 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# Software Engineer
-
-Hey there!
 
 - [Github](https://github.com/r0aringthunder)
 - [Linkedin](https://www.linkedin.com/in/will-mercer-2aa55015b/)
