@@ -3,9 +3,9 @@ Ever since I was a teenager, I've been fascinated with technology, starting with
 <br>
 • 🌍  I'm based in Hammond, LA
 <br>
-• 🖥️  See my portfolio at https://wdmvii.com/
+• 🖥️  See my portfolio at <a href="https://wdmvii.com/" target="_blank" rel="noreferrer">wdmvii.com</a>
 <br>
-• ✉️  You can contact me at [me@wdmvii.com](mailto:me@wdmvii.com)
+• ✉️  You can contact me at <a href="mailto:me@wdmvii.com" target="_blank" rel="noreferrer">me@wdmvii.com</a>
 <br>
 • 🧠  I'm learning CharmCLI
 <br>
