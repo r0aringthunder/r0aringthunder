@@ -98,3 +98,4 @@ Ever since I was a teenager, I've been fascinated with technology, starting with
  <br>
  <a href="https://github.com/r0aringthunder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0aringthunder&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+<a href="https://html-preview.github.io/?https://github.com/r0aringthunder/r0aringthunder.github.io/blob/main/posthog.html"></a>
