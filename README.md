@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/twitter/follow/wdmvii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=r0aringthunder&label=Profile%20views&color=0e75b6&style=plastic" alt="r0aringthunder" />
+  <img src="https://komarev.com/ghpvc/?username=r0aringthunder&label=Profile%20visits&color=0e75b6&style=plastic" alt="r0aringthunder" />
  </p>
 </h1>
 Ever since I was a teenager, I've been fascinated with technology, starting with tinkering on small gadgets. I then moved on to explore web development and server architecture. After finishing high school, I joined Hire Dragons where I sharpened my skills and grew into a proficient full stack engineer.
